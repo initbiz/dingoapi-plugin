@@ -6,8 +6,6 @@
     "require": {
         "php": ">7.2",
         "composer/installers": "~1.0",
-        "dingo/api": "^2.0",
-        "tymon/jwt-auth": "^1.0",
-        "rainlab/user-plugin": "^1.5"
+        "dingo/api": "^2.0"
     }
 }
